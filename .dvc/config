@@ -1,0 +1,4 @@
+[core]
+    remote = localstore
+['remote "localstore"']
+    url = /Users/arinagoncharova/PycharmProjects/MLOps_lab_repeat/Phase1/datastore
