@@ -1,0 +1,6 @@
+db:
+  driver: mysql
+  user: james
+  password: secret2
+  dbname: project_db
+version: 1.2.4

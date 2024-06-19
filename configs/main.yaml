@@ -1,0 +1,9 @@
+db:
+  user: james
+  age: ???
+  current_age: ${db.age}
+  age_string: "This is my age ${db.current_age}"
+
+defaults:
+  - db: mysql
+  - _self_

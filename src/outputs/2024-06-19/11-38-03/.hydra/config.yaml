@@ -1,0 +1,7 @@
+db:
+  driver: mysql
+  password: secret_mysql
+  user: james
+  age: 10
+  current_age: ${db.age+1}
+  age_string: This is my age ${db.current_age}
